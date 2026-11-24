@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+artifacts/predictions.jsonl
+*.pyc
+.venv/
+data/*.csv
+artifacts/model.joblib
